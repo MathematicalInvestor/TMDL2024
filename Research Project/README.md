@@ -1,5 +1,7 @@
 I have included 5 example MRI scans. the full dataset we used is 45GB and can be found on the following link: https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation 
 
+
+also download a version of the pretrained weights here: https://www.kaggle.com/code/rastislav/3d-mri-brain-tumor-segmentation-u-net/input?select=model_per_class.h5
 when doing so uncomment the lines:
 
 # del conformal_cal_data 
